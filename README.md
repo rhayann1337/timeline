@@ -224,3 +224,9 @@ pnpm start
 ```
 
 The project will open automatically in your default browser.
+
+<img width="1842" height="796" alt="image" src="https://github.com/user-attachments/assets/c88a3012-f9b9-479f-a5be-1dc04b276a9f" />
+<img width="1784" height="933" alt="image" src="https://github.com/user-attachments/assets/83782995-4527-46f9-ab75-92d9719c5bf3" />
+
+
+
